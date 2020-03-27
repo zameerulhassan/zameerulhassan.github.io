@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zam Hassan</title>
+    <link>https://zameerulhassan.github.io/</link>
+    <description>Recent content on Zam Hassan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Mar 2020 12:58:03 -0600</lastBuildDate>
+    
+	<atom:link href="https://zameerulhassan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://zameerulhassan.github.io/projects/</link>
+      <pubDate>Fri, 27 Mar 2020 12:58:03 -0600</pubDate>
+      
+      <guid>https://zameerulhassan.github.io/projects/</guid>
+      <description> List of projects  Database Design, Develop and Implementation Networkg Design, Develop and Implementation Web Apps Design, Develop and Implementation  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://zameerulhassan.github.io/contact/</link>
+      <pubDate>Fri, 27 Mar 2020 12:56:17 -0600</pubDate>
+      
+      <guid>https://zameerulhassan.github.io/contact/</guid>
+      <description>email zameerulhassan@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://zameerulhassan.github.io/about/</link>
+      <pubDate>Fri, 27 Mar 2020 12:51:04 -0600</pubDate>
+      
+      <guid>https://zameerulhassan.github.io/about/</guid>
+      <description>I don&amp;rsquo;t mind learning new things.
+read more</description>
+    </item>
+    
+    <item>
+      <title>Dr Faustus</title>
+      <link>https://zameerulhassan.github.io/blogs/soul/</link>
+      <pubDate>Fri, 27 Mar 2020 11:45:13 -0600</pubDate>
+      
+      <guid>https://zameerulhassan.github.io/blogs/soul/</guid>
+      <description>Christopher Marlowe O soul, be chang&amp;rsquo;d into little water-drops,
+And fall into the ocean, ne&amp;rsquo;er be found!
+Read more</description>
+    </item>
+    
+    <item>
+      <title>Stopping By Woods</title>
+      <link>https://zameerulhassan.github.io/blogs/stopping/</link>
+      <pubDate>Fri, 27 Mar 2020 11:45:13 -0600</pubDate>
+      
+      <guid>https://zameerulhassan.github.io/blogs/stopping/</guid>
+      <description>Stopping By Woods On A Snowy Evening. By ROBERT FROST The woods are lovely, dark and deep,
+But I have promises to keep,
+And miles to go before I sleep,
+And miles to go before I sleep.
+Read More</description>
+    </item>
+    
+  </channel>
+</rss>
