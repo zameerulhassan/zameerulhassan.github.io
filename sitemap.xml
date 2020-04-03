@@ -3,50 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zameerulhassan.github.io/projects/</loc>
-    <lastmod>2020-03-27T12:58:03-06:00</lastmod>
+    <loc>www.example.com/contact/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zameerulhassan.github.io/</loc>
-    <lastmod>2020-03-27T12:58:03-06:00</lastmod>
+    <loc>www.example.com/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zameerulhassan.github.io/contact/</loc>
-    <lastmod>2020-03-27T12:56:17-06:00</lastmod>
+    <loc>www.example.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://zameerulhassan.github.io/about/</loc>
-    <lastmod>2020-03-27T12:51:04-06:00</lastmod>
+    <loc>www.example.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://zameerulhassan.github.io/blogs/</loc>
-    <lastmod>2020-03-27T11:45:13-06:00</lastmod>
+    <loc>www.example.com/profile/</loc>
   </url>
   
   <url>
-    <loc>https://zameerulhassan.github.io/blogs/soul/</loc>
-    <lastmod>2020-03-27T11:45:13-06:00</lastmod>
+    <loc>www.example.com/project/</loc>
   </url>
   
   <url>
-    <loc>https://zameerulhassan.github.io/blogs/stopping/</loc>
-    <lastmod>2020-03-27T11:45:13-06:00</lastmod>
+    <loc>www.example.com/404/</loc>
   </url>
   
   <url>
-    <loc>https://zameerulhassan.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zameerulhassan.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zameerulhassan.github.io/tags/</loc>
+    <loc>www.example.com/tags/</loc>
   </url>
   
 </urlset>
